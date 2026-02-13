@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+.venv
+venv/
+.env
+*.csv
+*.xlsx
+data/raw/*
+logs/
+*.log
+output/
+*.html
+*.pdf
+.vscode/
+.idea/
+.DS_Store
+n8n/secrets.json
